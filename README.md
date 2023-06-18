@@ -1,5 +1,5 @@
 # EducationOfPhyton
 
-Step by step python education documantry
+Step by step python education 
 
 
