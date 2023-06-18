@@ -1,0 +1,1 @@
+#You can delete a value you define with the "del" command.
