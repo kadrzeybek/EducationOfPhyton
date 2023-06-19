@@ -7,3 +7,4 @@ print("{} * {} = {}".format(sayi1, sayi2, sayi1 * sayi2))
 print("{} ** {} = {}".format(sayi1, sayi2, sayi1 ** sayi2))
 print("{} % {} = {}".format(sayi1, sayi2, sayi1 % sayi2))
 print("{} // {} = {}".format(sayi1, sayi2, sayi1 // sayi2))
+
